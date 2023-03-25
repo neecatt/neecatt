@@ -91,6 +91,12 @@
 
 <br>
 
+<h3 align="center">My Daily Dev Badge</h3>
+
+<p align="center"
+<a href="https://app.daily.dev/neecat"><img align="center" src="https://api.daily.dev/devcards/3bfcce99ff024ab7a88ceb7583a65cf9.png?r=xb1" width="400" alt="Nijat's Dev Card"/></a>
+</p>
+
 <!-- 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
