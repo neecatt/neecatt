@@ -7,13 +7,9 @@
 </p>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=neecatt)
+  <img src="https://komarev.com/ghpvc/?username=neecatt"/>
 </p>
 
-<!-- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=neecatt&label=Profile%20Views&color=6&icon=3&pretty=true" />
-</a>
- -->
  
 <p align="center">
 <br>
